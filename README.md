@@ -19,6 +19,20 @@ Official Android Release: **v1.0.0**
 - Food Menu
 - Student Community
 
+- ## App Screenshots
+
+### Login and Student Dashboard
+![BC Hostel Connect Screenshot 1](WhatsApp%20Image%202026-11-07%20at%2011.38.55%20PM.jpeg)
+
+### Hostel Services
+![BC Hostel Connect Screenshot 2](WhatsApp%20Image%202026-11-07%20at%2011.39.24%20PM.jpeg)
+
+### Student Features
+![BC Hostel Connect Screenshot 3](WhatsApp%20Image%202026-11-07%20at%2011.40.04%20PM.jpeg)
+
+### More App Features
+![BC Hostel Connect Screenshot 4](WhatsApp%20Image%202026-11-07%20at%2011.56.44%20PM.jpeg)
+
 ## Installation
 
 1. Download the APK.
