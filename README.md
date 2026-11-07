@@ -1,44 +1,77 @@
 # BC Hostel Connect
 
-**BC Hostel Connect – Student Digital Platform**
+### Student Digital Platform
 
-Official Android Release: **v1.0.0**
+A mobile platform designed to connect students, wardens and administrators of BC Welfare Hostels.
 
-## Download APK
+<p align="center">
 
-[Download BC Hostel Connect v1.0.0](https://drive.google.com/file/d/1Rkyanu5npUr-2WTIgcHYjbVZMCtVU8DR/view?usp=sharing)
+**Official Android Release — Version 1.0.0**
 
-## Features
+</p>
 
-- Student Registration & Login
+## 📲 Download the App
+
+[**⬇️ DOWNLOAD BC HOSTEL CONNECT (APK)**](https://drive.google.com/uc?export=download&id=1Rkyanu5npUr-2WTIgcHYjbVZMCtVU8DR)
+
+- **Version:** 1.0.0
+- **Platform:** Android
+- **File size:** Approximately 124 MB
+- **Format:** APK
+
+## 📸 App Screenshots
+
+### Screenshot 1
+![BC Hostel Connect 1](WhatsApp%20Image%202026-11-07%20at%2011.38.55%20PM.jpeg)
+
+### Screenshot 2
+![BC Hostel Connect 2](WhatsApp%20Image%202026-11-07%20at%2011.39.24%20PM.jpeg)
+
+### Screenshot 3
+![BC Hostel Connect 3](WhatsApp%20Image%202026-11-07%20at%2011.40.04%20PM.jpeg)
+
+### Screenshot 4
+![BC Hostel Connect 4](WhatsApp%20Image%202026-11-07%20at%2011.56.44%20PM.jpeg)
+
+## ✨ Features
+
+- Student Registration and Login
 - Hostel Attendance
-- Scholarships
+- Scholarship Information
 - Hostel Information
-- Notices & Announcements
-- Complaints & Support
-- Food Menu
+- Notices and Announcements
+- Complaints and Support
+- Hostel Food Menu
 - Student Community
 
-- ## App Screenshots
+## 📥 Installation Instructions
 
-### Login and Student Dashboard
-![BC Hostel Connect Screenshot 1](WhatsApp%20Image%202026-11-07%20at%2011.38.55%20PM.jpeg)
-
-### Hostel Services
-![BC Hostel Connect Screenshot 2](WhatsApp%20Image%202026-11-07%20at%2011.39.24%20PM.jpeg)
-
-### Student Features
-![BC Hostel Connect Screenshot 3](WhatsApp%20Image%202026-11-07%20at%2011.40.04%20PM.jpeg)
-
-### More App Features
-![BC Hostel Connect Screenshot 4](WhatsApp%20Image%202026-11-07%20at%2011.56.44%20PM.jpeg)
-
-## Installation
-
-1. Download the APK.
-2. Open the downloaded APK on your Android phone.
-3. Allow installation from this source if prompted.
+1. Download the APK using the download link above.
+2. Open the downloaded `app-release.apk` file.
+3. Allow installation from this source if Android asks.
 4. Tap **Install**.
+5. Open BC Hostel Connect and log in or register.
 
-**Version:** 1.0.0  
-**Platform:** Android
+## 📱 Requirements
+
+- Android 7.0 or later
+- Internet connection
+- Approximately 124 MB APK download
+
+## 🔄 Version Information
+
+| Detail | Information |
+|---|---|
+| App Name | BC Hostel Connect |
+| Version | 1.0.0 |
+| Platform | Android |
+| Package Type | APK |
+| File Size | Approx. 124 MB |
+
+## About
+
+BC Hostel Connect is a student digital platform intended to make hostel-related services and information easier to access.
+
+---
+
+**BC Hostel Connect — Student Digital Platform**
