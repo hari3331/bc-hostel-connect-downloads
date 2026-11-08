@@ -1,3 +1,4 @@
+
 # BC Hostel Connect
 
 ### Student Digital Platform
@@ -12,7 +13,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
 
 ## 📲 Download the App
 
-[**⬇️ DOWNLOAD BC HOSTEL CONNECT (APK)**](https://drive.google.com/uc?export=download&id=1Rkyanu5npUr-2WTIgcHYjbVZMCtVU8DR)
+[**⬇️ DOWNLOAD BC HOSTEL CONNECT (LATEST APK)**](https://github.com/hari3331/bc-hostel-connect-downloads/releases/latest/download/app-release.apk)
 
 - **Version:** 1.0.0
 - **Platform:** Android
@@ -46,7 +47,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
 
 ## 📥 Installation Instructions
 
-1. Download the APK using the download link above.
+1. Download the latest APK using the download link above.
 2. Open the downloaded `app-release.apk` file.
 3. Allow installation from this source if Android asks.
 4. Tap **Install**.
