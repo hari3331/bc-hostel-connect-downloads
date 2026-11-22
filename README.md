@@ -13,8 +13,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
 🔴 **⬇️ CLICK HERE TO DOWNLOAD THE APK ⬇️**
 
 <br>
-
-(## Download BC Hostel Connect  🔥📲 DOWNLOAD NOW 📲🔥
+  🔥📲 DOWNLOAD NOW 📲🔥
 
 
                              👇👇👇👇👇
