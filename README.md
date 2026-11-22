@@ -16,6 +16,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
   🔥📲 DOWNLOAD NOW 📲🔥
 
 
+
   👇👇👇👇👇
 
 
