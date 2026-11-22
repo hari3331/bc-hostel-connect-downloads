@@ -14,7 +14,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
 
 <br>
 
-[![Download APK](https://img.shields.io/badge/⬇️_DOWNLOAD_APK-CLICK_HERE-red?style=for-the-badge&logo=android)](https://drive.google.com/uc?export=download&id=1JbN1kVF7VLtvXZLSD3wB6jucToSANTXx)
+[![Download APK](https://img.shields.io/badge/⬇️_DOWNLOAD_APK-CLICK_HERE-red?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1Md0XS_hp1vEnX3woh14g7Yv-5dFYeOi5/view?usp=sharing)
 
 <br>
 
