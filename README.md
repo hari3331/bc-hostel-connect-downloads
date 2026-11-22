@@ -15,7 +15,7 @@ A mobile platform designed to connect students, wardens and administrators of BC
 <br>
 
 [![Download APK](https://img.shields.io/badge/⬇️_DOWNLOAD_APK-CLICK_HERE-red?style=for-the-badge&logo=android)](## Download BC Hostel Connect
-
+           🡻🡻👇👇👇🡻🡻
 [**Download BC Hostel Connect APK (v1.0.0)**](https://github.com/hari3331/bc-hostel-connect-downloads/releases/download/v1.0.0/BC.HOSTEL.CONNECT.apk))
 
 <br>
